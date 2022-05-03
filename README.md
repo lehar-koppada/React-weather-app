@@ -1,5 +1,5 @@
-![screenshots](./Screenshot%20(792).png)
-![screenshots](./Screenshot%20(793).png)
+![screenshots](./screenshots/Screenshot-warm.png)
+![screenshots](./screenshots/Screenshot%20-cold.png)
 
 # Getting Started with Create React App
 
